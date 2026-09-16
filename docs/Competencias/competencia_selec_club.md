@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: Competencia Clubes y Selecciones
+---
+
 # Competencias (Clubes y Selecciones)
 
 > La funcionalidad es idéntica para **Competencias Clubes** y **Competencias Selecciones**; la única diferencia es la sección del menú lateral desde la que se accede.
