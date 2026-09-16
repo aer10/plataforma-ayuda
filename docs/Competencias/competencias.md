@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Generación de credenciales
+title: Competencias
 ---
 
 # Competencias
