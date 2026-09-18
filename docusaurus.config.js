@@ -106,7 +106,7 @@ const config = {
 		  items: [
 			{
 			  label: 'Funcionalidades',
-			  to: '/docs/intro',
+			  to: '/',
 			},
 			{
 			  label: 'Novedades',
