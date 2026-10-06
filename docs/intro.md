@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: "Visión general de JUEGA"
-slug: /
+slug: /intro
 ---
 
 # Visión general de JUEGA
