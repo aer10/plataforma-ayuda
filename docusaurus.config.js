@@ -81,7 +81,7 @@ const config = {
       title: 'JUEGA',
       logo: {
         alt: 'JUEGA',
-        src: 'img/logo.svg',
+        src: 'img/brand/conmebol blnk.jpg',
       },
       items: [
         {
