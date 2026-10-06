@@ -28,3 +28,83 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* ===== Portada JUEGA / CONMEBOL Evolución ===== */
+
+.juega-hero {
+  position: relative;
+  min-height: 250px;
+  margin: 0 0 2rem;
+  padding: 3rem 2.5rem;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background:
+    linear-gradient(90deg, rgba(0, 63, 105, .96), rgba(0, 99, 165, .84)),
+    url('/img/brand/PORTADA-CONMEBOL-EVOLUCION.jpg') center/cover no-repeat;
+}
+
+.juega-hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  color: white;
+}
+
+.juega-eyebrow {
+  display: block;
+  margin-bottom: .75rem;
+  font-size: .85rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+}
+
+.juega-hero h2 {
+  margin: 0 0 1rem;
+  color: white;
+  font-size: 2.6rem;
+}
+
+.juega-hero p {
+  margin: 0;
+  color: white;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.juega-capabilities {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.juega-card {
+  padding: 1.35rem 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .04);
+}
+
+.juega-card h3 {
+  margin: 0 0 .5rem;
+  color: #0067b1;
+  font-size: 1rem;
+}
+
+.juega-card p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .juega-capabilities {
+    grid-template-columns: 1fr;
+  }
+
+  .juega-hero {
+    padding: 2rem 1.5rem;
+  }
+}

@@ -6,48 +6,71 @@ slug: /
 
 # Visión general de JUEGA
 
-JUEGA es una plataforma orientada a soportar de manera integral la organización, administración y operación de competiciones deportivas.
+<div className="juega-hero">
 
-Este portal presenta el **alcance funcional de JUEGA**, las principales capacidades disponibles y su evolución.
+<div className="juega-hero-content">
 
-La documentación está organizada por capacidades de negocio y no por las opciones del menú de la aplicación.
+<span className="juega-eyebrow">CONMEBOL · EVOLUCIÓN</span>
 
-## Capacidades principales
+<h2>JUEGA</h2>
 
-JUEGA contempla capacidades para:
+<p>
+Plataforma para la gestión integral de competiciones deportivas, sus participantes,
+equipos, partidos y procesos asociados.
+</p>
 
-- gestionar competiciones;
-- administrar equipos y delegaciones;
-- gestionar atletas y participantes;
-- operar integralmente los partidos;
-- aplicar reglas reglamentarias y disciplinarias;
-- administrar contenidos y comunicaciones;
-- operar con múltiples organizaciones;
-- gestionar seguridad, acceso e internacionalización.
+</div>
 
-## Capacidades destacadas
+</div>
 
-Dentro del alcance de JUEGA se destacan:
+## Una plataforma para la operación de competiciones
 
-- operación simultánea de múltiples organizaciones, suborganizaciones y equipos;
-- autonomía de Asociaciones Miembro para administrar sus propias competiciones;
-- personalización de la experiencia por organización;
-- autogestión para equipos y selecciones;
-- confirmación y validación de equipos y atletas;
-- gestión documental de participantes;
-- gestión integral de partidos;
-- trazabilidad de alineaciones;
-- aplicación de reglas e inhabilitaciones;
-- asignación de árbitros, delegados y oficiales;
-- gestión logística de delegaciones;
-- generación de contenidos y documentos;
-- operación en español, portugués e inglés;
-- integración con mecanismos de autenticación SSO.
+JUEGA centraliza procesos deportivos y administrativos que intervienen en la organización y operación de una competición.
 
-## Organización de la documentación
+<div className="juega-capabilities">
 
-El portal se divide en:
+<div className="juega-card">
+<h3>Gestión de competiciones</h3>
+<p>Configuración y administración de competiciones, temporadas, categorías y su estructura deportiva.</p>
+</div>
 
-- **Capacidades de la plataforma:** describe qué puede lograr JUEGA y qué procesos soporta.
-- **Evolución y novedades:** registra cambios relevantes en el alcance funcional.
-- **Guías de uso:** conserva documentación operativa de pantallas o funcionalidades específicas.
+<div className="juega-card">
+<h3>Equipos y delegaciones</h3>
+<p>Registro, documentación, confirmaciones, autogestión y logística de equipos y delegaciones.</p>
+</div>
+
+<div className="juega-card">
+<h3>Atletas y participantes</h3>
+<p>Inscripción, documentación, validaciones, elegibilidad y seguimiento de participantes.</p>
+</div>
+
+<div className="juega-card">
+<h3>Gestión de partidos</h3>
+<p>Programación, alineaciones, oficiales, eventos, sustituciones e información del partido.</p>
+</div>
+
+<div className="juega-card">
+<h3>Reglamentación y disciplina</h3>
+<p>Reglas de competición, controles y procesos reglamentarios y disciplinarios.</p>
+</div>
+
+<div className="juega-card">
+<h3>Contenidos y comunicaciones</h3>
+<p>Boletines, documentos, publicaciones, notificaciones y comunicaciones oficiales.</p>
+</div>
+
+<div className="juega-card">
+<h3>Operación multi-organización</h3>
+<p>Operación de organizaciones, Asociaciones Miembro, suborganizaciones y equipos.</p>
+</div>
+
+<div className="juega-card">
+<h3>Seguridad y acceso</h3>
+<p>Usuarios, permisos, autenticación, SSO e internacionalización.</p>
+</div>
+
+</div>
+
+## Guías de uso
+
+Las guías de uso reúnen la documentación operativa de JUEGA para consultar procesos y funcionalidades específicas de la plataforma.
