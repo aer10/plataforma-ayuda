@@ -108,3 +108,25 @@
     padding: 2rem 1.5rem;
   }
 }
+
+/* ===== Identidad visual JUEGA ===== */
+
+:root {
+  --ifm-color-primary: #0067b1;
+  --ifm-color-primary-dark: #005d9f;
+  --ifm-color-primary-darker: #005796;
+  --ifm-color-primary-darkest: #00487b;
+  --ifm-color-primary-light: #0071c3;
+  --ifm-color-primary-lighter: #0077cc;
+  --ifm-color-primary-lightest: #0086e6;
+}
+
+.navbar__link:hover,
+.navbar__link--active,
+.menu__link:hover,
+.menu__link--active,
+.table-of-contents__link:hover,
+.table-of-contents__link--active,
+.breadcrumbs__link:hover {
+  color: #0067b1;
+}
